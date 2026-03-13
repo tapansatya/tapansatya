@@ -160,7 +160,7 @@ index=sysmon EventCode=1 | table _time, Image, CommandLine, User | head 20
 | 4688 | Security | Process creation |
 | 1 | Sysmon | Process create (with hash + cmdline) |
 
-> 📸 _Add screenshot: `screenshots/task1-splunk-ingestion.png` — Splunk search results showing all 4 log sources flowing_
+> > 📸 `screenshots/task1-splunk-ingestion.png` — *(coming soon)*
 
 </details>
 
@@ -200,8 +200,8 @@ tcp.flags.syn == 1 && tcp.flags.ack == 0
 | Response pattern | RST/ACK mix | Overwhelmed — minimal RST |
 | Intent | Reconnaissance | Denial of Service |
 
-> 📸 _Add screenshot: `screenshots/task2-wireshark-flood.png` — I/O graph showing 700 pkt/sec spike_
-> 📁 _Add PCAP: `pcaps/syn-flood-annotated.pcapng` · `pcaps/syn-scan-annotated.pcapng`_
+> > 📸 `screenshots/task2-wireshark-flood.png` — *(coming soon)*
+> 📁 `pcaps/syn-flood-annotated.pcapng` · `pcaps/syn-scan-annotated.pcapng` — *(coming soon)*
 
 </details>
 
@@ -270,10 +270,9 @@ index=sysmon EventCode=1
 #    Lab result: 0/70 — confirmed clean test payload
 ```
 
-> 📸 _Add screenshot: `screenshots/task3-brute-force-alert.png` — alert firing on threshold_
-> 📸 _Add screenshot: `screenshots/task3-mitre-navigator.png` — ATT&CK Navigator layer_
-> 📁 _Add file: `mitre/attack-navigator-layer.json`_
-
+> 📸 `screenshots/task3-brute-force-alert.png` — *(coming soon)*
+> 📸 `screenshots/task3-mitre-navigator.png` — *(coming soon)*
+> 📁 `mitre/attack-navigator-layer.json` — *(coming soon)*
 </details>
 
 ---
@@ -315,9 +314,9 @@ index=wineventlog (EventCode=4698 OR EventCode=7045)
 | sort -_time
 ```
 
-> 📸 _Add screenshot: `screenshots/task4-ir-dashboard.png` — 3-panel Splunk dashboard_
-> 📸 _Add screenshot: `screenshots/task4-isolation-timeline.png` — event timeline during incident_
-> 📁 _Add file: `dashboards/soc-overview.json` · `ir-playbook/phishing-playbook-v1.pdf`_
+> 📸 `screenshots/task4-ir-dashboard.png` — *(coming soon)*
+> 📸 `screenshots/task4-isolation-timeline.png` — *(coming soon)*
+> 📁 `dashboards/soc-overview.json` · `ir-playbook/phishing-playbook-v1.pdf` — *(coming soon)*
 
 </details>
 
@@ -508,7 +507,7 @@ T+01:00  Flood stopped · baseline restored
 ### 📂 Artifact Index
 > Every project file mapped to the skill it demonstrates and how to reproduce it.
 
-#### SOC Lab (`./soc-lab-cfss/`)
+#### SOC Lab ([`soc-lab-cfss/`](https://github.com/tapansatya/soc-lab-cfss))
 
 | File | Type | Skill Demonstrated |
 |---|---|---|
@@ -694,7 +693,6 @@ echo "[+] Recon complete. Results in $OUT/"
 
 ![CCNA](https://img.shields.io/badge/CCNA-Certified-1BA0D7?style=flat-square&logo=Cisco&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Protocol_Analysis-0078D4?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-Packet_Analysis-1679A7?style=flat-square&logo=Wireshark&logoColor=white)
 </div>
 
 ---
