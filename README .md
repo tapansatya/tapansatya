@@ -725,7 +725,6 @@ PING tapan — awaiting response...
 [Reply accepted · Average response time: < 24 hrs]
 ```
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tapansatya&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e)
 
 ---
 
