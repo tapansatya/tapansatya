@@ -62,6 +62,16 @@ I build labs across the full attack-defend spectrum — from Splunk SIEM and IR 
 
 ---
 
+## `$ cat ./target-roles`
+
+| Role | Why I Fit | Strongest Evidence |
+|---|---|---|
+| 🔵 L1 SOC Analyst | Splunk SIEM, 4 SPL rules, IR lifecycle, MITRE mapping | SOC Lab — CFSS Internship |
+| 🔴 VAPT Trainee | 3 critical CVEs exploited, CVSS-scored report, recon methodology | Penetration Testing Lab |
+| 🟡 Security Analyst | NIST IR framework, playbook authoring, threat documentation | Phishing IR Playbook |
+| 🟢 Network Security Engineer | CCNA certified, packet analysis, SYN flood/scan detection | Wireshark + hping3 lab |
+| 🟠 Bug Bounty (Active) | Recon + exploitation skills, CVE research experience | HackerOne — In Progress |
+
 ## `$ ls ./projects`
 
 ### 🔷 SOC Lab — CFSS India Internship
