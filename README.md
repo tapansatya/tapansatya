@@ -18,6 +18,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tapansb1-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tapansb1/)
 [![Email](https://img.shields.io/badge/Email-tapansatyabhogadi%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:tapansatyabhogadi@gmail.com)
 [![VAPT Lab](https://img.shields.io/badge/VAPT_Lab-GitHub-181717?style=flat-square&logo=github)](https://github.com/tapansatya/penetration-testing-lab)
+[![SOC Lab](https://img.shields.io/badge/SOC_Lab-GitHub-181717?style=flat-square&logo=github)](https://github.com/tapansatya/soc-lab-cfss)
 ![Graduating](https://img.shields.io/badge/Graduating-June_2026-f59e0b?style=flat-square)
 ![Status](https://img.shields.io/badge/Open_To-SOC_·_VAPT_·_Security_Ops_Roles-22c55e?style=flat-square)
 ![Views](https://komarev.com/ghpvc/?username=tapansatya&style=flat-square&color=6366f1&label=profile+views)
@@ -725,7 +726,7 @@ PING tapan — awaiting response...
 
 [Reply accepted · Average response time: < 24 hrs]
 ```
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tapansatya&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e)
 
 ---
 
