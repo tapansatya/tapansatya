@@ -15,13 +15,13 @@ Copy
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-### `> SOC Analyst · Threat Hunter · VAPT Practitioner`
+### `> Cybersecurity Fresher | SOC · VAPT · Network Security`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tapansb1-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tapansb1/)
 [![Email](https://img.shields.io/badge/Email-tapansatyabhogadi%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:tapansatyabhogadi@gmail.com)
 [![VAPT Lab](https://img.shields.io/badge/VAPT_Lab-GitHub-181717?style=flat-square&logo=github)](https://github.com/tapansatya/penetration-testing-lab)
 ![Graduating](https://img.shields.io/badge/Graduating-June_2026-f59e0b?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Seeking_Tier--1_SOC_Role-22c55e?style=flat-square)
+![Status](https://img.shields.io/badge/Open_To-SOC_·_VAPT_·_Security_Ops_Roles-22c55e?style=flat-square)
 ![Views](https://komarev.com/ghpvc/?username=tapansatya&style=flat-square&color=6366f1&label=profile+views)
 
 </div>
@@ -56,10 +56,11 @@ spl_rules_written:     4  →  7 MITRE ATT&CK techniques mapped
 attack_scenarios:      4 executed (SYN flood, port scan, brute-force, malware EID 4688)
 cves_exploited:        3 critical  (vsftpd · Samba · UnrealIRCd)  →  root shells
 ir_framework:          NIST SP 800-61r2  (full lifecycle, 8-min isolation achieved)
-currently_building:    CEH prep + expanding HTB Pro Labs coverage
+target_roles:          SOC Analyst · VAPT Trainee · Security Analyst · Network Security Engineer
+currently_building:    CEH prep · HTB Pro Labs · Bug Bounty (HackerOne)
 ```
 
-> I don't just study cybersecurity — I build labs, simulate attacks, document findings, and map offence to defence.
+I build labs across the full attack-defend spectrum — from Splunk SIEM and IR playbooks on the blue side, to CVE exploitation and VAPT reports on the red side. CCNA-certified with a network security foundation to match.
 
 ---
 
