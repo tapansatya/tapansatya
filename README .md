@@ -688,6 +688,11 @@ echo "[+] Recon complete. Results in $OUT/"
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows_10%2F11-0078D4?style=flat-square&logo=Microsoft&logoColor=white)
 
+**Networking & Protocols**
+
+![CCNA](https://img.shields.io/badge/CCNA-Certified-1BA0D7?style=flat-square&logo=Cisco&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Protocol_Analysis-0078D4?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-Packet_Analysis-1679A7?style=flat-square&logo=Wireshark&logoColor=white)
 </div>
 
 ---
