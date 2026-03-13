@@ -78,6 +78,7 @@ I build labs across the full attack-defend spectrum — from Splunk SIEM and IR 
 `Jan–Feb 2026  ·  ~160 hrs  ·  VirtualBox · Splunk 9.x · Windows 10 · Kali Linux`
 
 > Structured 4-task internship replicating enterprise SOC operations in an isolated lab. All artefacts — SPL rules, IR playbook, MITRE mapping, dashboard JSON — documented and version-controlled.
+> 📁 **[→ Full SOC Lab Artifacts](https://github.com/tapansatya/soc-lab-cfss)**
 
 #### 🖼️ Lab Architecture
 
@@ -318,7 +319,6 @@ index=wineventlog (EventCode=4698 OR EventCode=7045)
 > 📁 _Add file: `dashboards/soc-overview.json` · `ir-playbook/phishing-playbook-v1.pdf`_
 
 </details>
-📁 **[→ Full SOC Lab Artifacts](https://github.com/tapansatya/soc-lab-cfss)**
 
 ---
 
