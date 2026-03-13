@@ -318,6 +318,7 @@ index=wineventlog (EventCode=4698 OR EventCode=7045)
 > 📁 _Add file: `dashboards/soc-overview.json` · `ir-playbook/phishing-playbook-v1.pdf`_
 
 </details>
+📁 **[→ Full SOC Lab Artifacts](https://github.com/tapansatya/soc-lab-cfss)**
 
 ---
 
