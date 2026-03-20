@@ -12,7 +12,7 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-### ` Cybersecurity Fresher | SOC · VAPT · Network Security`
+### `Cybersecurity Fresher | SOC · VAPT · Network Security`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tapansb1-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tapansb1/)
 [![Email](https://img.shields.io/badge/Email-tapansatyabhogadi%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:tapansatyabhogadi@gmail.com)
